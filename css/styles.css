@@ -8,7 +8,7 @@
 body {
   text-align: center;
   color: #171717;
-  font-family: 'Baskerville Old Face';
+  font-family: 'Bell MT';
   margin: 0;
 }
 
@@ -48,7 +48,7 @@ hr {
 
 a {
   color: #E1E8EB;
-  font-family: 'Baskerville Old Face';
+  font-family: 'Bell MT';
   margin: 25px 15px;
   text-decoration: none;
 }
@@ -145,7 +145,7 @@ a:hover {
   -webkit-border-radius: 10;
   -moz-border-radius: 10;
   border-radius: 10px;
-  font-family: 'Baskerville Old Face';
+  font-family: 'Bell MT';
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
